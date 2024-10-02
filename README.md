@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/fa1e9dba-518b-44f0-ad89-e7630b47404e
 
 task 2 
 landing page :
-created a  netflix clone landing page using html and css and js! [Screenshot 2024-10-02 165425](https://github.com/user-attachments/assets/451d376d-7f1b-4fa4-b459-c7f0bbb2b6c4)
+created a  netflix clone landing page using html and css and js! (https://github.com/user-attachments/assets/451d376d-7f1b-4fa4-b459-c7f0bbb2b6c4)
   in this following task.
 
 
