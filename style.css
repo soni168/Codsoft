@@ -6,8 +6,7 @@
   font-family: "Kanit";
 }
 body {
-  background: #003135;
-  color: #afdde5;
+  color: #b1d4e0;
 }
 .header {
   position: fixed;
@@ -15,7 +14,7 @@ body {
   left: 0;
   width: 100%;
   padding: 20px 10%;
-  background: #0fa4af;
+  background: #05445e;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -23,14 +22,13 @@ body {
 }
 .logo {
   font-size: 25px;
-  /* color: #024950; */
-  color: #964734;
+  color: #75e6da;
   text-decoration: none;
   font-weight: 600;
 }
 .navbar a {
   font-size: 18px;
-  color: #024950;
+  color: #d4f1f4;
   text-decoration: none;
   font-weight: 600;
   margin-left: 35px;
@@ -38,33 +36,33 @@ body {
 }
 .navbar a:hover,
 .navbar a.active {
-  color: #afdde5;
+  color: #0fa4af;
 }
 .home {
   height: 100vh;
-  /* width: 100vh; */
-  /* display: flex; */
+  background: url(home.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
   align-items: center;
   padding: 0 10%;
-  /* margin-top: 1000px; */
   padding-top: 30vh;
 }
 .home-content {
   max-width: 600px;
-  /* background: ; */
 }
 .home-content h1 {
   font-size: 56px;
-  font-weight: 700;
+  font-weight: 400;
   line-height: 1.2;
 }
 .home-content h3 {
-  font-size: 32px;
-  font-weight: 700;
-  color: #0fa4af;
+  font-size: 28px;
+  font-weight: 500;
+  color: white;
 }
+
 .home-content p {
-  font-size: 16px;
+  font-size: 20px;
   margin: 20px 0 40px;
 }
 .home-content .btn-box {
@@ -72,9 +70,9 @@ body {
   justify-content: space-between;
   width: 345px;
   height: 50px;
-  /* background:#0FA4AF; */
 }
 .btn-box a {
+  position: relative;
   display: inline-flex;
   width: 150px;
   height: 100%;
@@ -91,22 +89,20 @@ body {
   position: relative;
   z-index: 1;
   overflow: hidden;
+  transition: 0.5s;
 }
+
 .btn-box a:nth-child(2) {
   background: transparent;
   color: #0fa4af;
 }
-.btn-box a ::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 0;
-  height: 100%;
-  z-index: 1;
-  transition: 0.5s;
-  background: #0fa4af;
+
+.btn-box a:nth-child(2):hover {
+  color: #2e8bc0;
+  background: #afdde5;
 }
-.btn-box a :hover::before {
-  width: 100%;
+.btn-box a:hover {
+  color: #2e8bc0;
+  background: transparent;
 }
+
