@@ -3,7 +3,7 @@ This repository is madeup for my internship tasks in codsoft!!
 task 1
 personal portfolio:
 I had created a portfolio to show up my HTML and CSS and js skills in this first following task.
-![Screenshot 2024-10-02 154430](https://github.com/user-attachments/assets/16957a23-7ff2-4434-a353-5836d0785fce)
+
 
 
 https://github.com/user-attachments/assets/8a81008f-4e8f-46e8-a7f7-f7dbd015b91b
