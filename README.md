@@ -7,9 +7,13 @@ https://github.com/user-attachments/assets/fa1e9dba-518b-44f0-ad89-e7630b47404e
 task 2 
 landing page :
 created a  netflix clone landing page using html and css and js in this following task.
-
-
 https://github.com/user-attachments/assets/ee1c15cb-4dea-4b88-a942-c2b7143ee55b
+task 3 :
+calculator:
+created a calculator using html and css javascript .
+https://github.com/user-attachments/assets/4b302dca-da41-4371-8730-edf9ae98b6eb
+
+
 
 
 
